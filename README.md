@@ -16,6 +16,7 @@ Control your system volume using hand gestures with OpenCV and MediaPipe.
 1. Clone the repo:
    ```bash
       git clone https://github.com/shlok165/Hand-Volume-Control.git
+      cd Hand-Volume-Control
 
 2. Install Requirements:
    ```bash
