@@ -15,4 +15,12 @@ Control your system volume using hand gestures with OpenCV and MediaPipe.
 ## Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/Hand-Volume-Control.git
+      git clone https://github.com/shlok165/Hand-Volume-Control.git
+
+2. Install Requirements:
+   ```bash
+      pip install -r requirements.txt
+
+3. Run the main script:
+   ```bash
+      python volume_control.py
